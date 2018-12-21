@@ -12,7 +12,7 @@ Zero boilerplate!
 <br>
 
 # Installation
-For installation you may see: 
+For installation you may see: https://pub.dartlang.org/packages/encrypted_prefs
 
 # How to use
 
