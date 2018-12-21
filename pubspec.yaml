@@ -1,8 +1,8 @@
 name: encrypted_prefs
-description: A smooth rating bar
-version: 0.0.1
-author: Thangmam <infimatet@gmail.com>
-homepage: https://github.com/thangmam/smoothratingbar.git
+description: This is to make the storage much more easy, you can now save the models to local storage by calling a single function. And guess what, its also encrypted!
+version: 1.0.0
+author: Salmaan <salmaan.ahmed@hotmail.com>
+homepage: https://github.com/salmaanahmed/encryptedPrefs
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
