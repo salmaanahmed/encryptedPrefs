@@ -79,4 +79,4 @@ This is async and you dont have to worry about anything.
 
 Pull requests are welcome! The best contributions will consist of substitutions or configurations for classes/methods known to block the main thread during a typical app lifecycle.
 
-I would love to know if you are using FlagChatAdapter in your app, send an email to [Salmaan Ahmed](mailto:salmaan.ahmed@hotmail.com)
+I would love to know if you are using EncryptedPrefs in your app, send an email to [Salmaan Ahmed](mailto:salmaan.ahmed@hotmail.com)
