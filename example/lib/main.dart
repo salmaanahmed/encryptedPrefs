@@ -1,4 +1,3 @@
-import 'package:quiver/core.dart';
 import 'package:flutter/material.dart';
 import 'package:encrypted_prefs/encrypted_prefs.dart';
 
@@ -149,7 +148,6 @@ class User {
   User(this.username, this.password);
 
   bool operator == (user) => user is User && user.username == username && user.password == password;
-  int get hashCode => hash2(username.hashCode, password.hashCode);
 
   /// Serializing technique
   User.fromJson(Map<String, dynamic> json)
